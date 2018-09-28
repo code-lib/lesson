@@ -5,6 +5,9 @@
 <title>PHP TEST</title>
 </head>
 <body>
-<?php phpinfo(); ?>
+<?php
+  echo phpinfo();
+  echo date('Y/m/d H:i:s').'<br />';
+?>
 </body>
 </html>
