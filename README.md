@@ -1,2 +1,0 @@
-# lesson
-GitHub test.
